@@ -1,2 +1,6 @@
 # financial-fraud-detection
 Machine learning for detecting financial fraud
+
+We aim to develop and evaluate machine learning models for detecting fraudulent transactions in a highly imbalanced financial dataset. Fraud detection models are highly complex and often face limitations, including poor performance due to extreme class imbalance, slow adaptation to new fraud patterns (particularly with the widespread use of artificial intelligence), and high false positive rates. Our goal is to enhance fraud detection performance, particularly in terms of recall, while minimizing false positives. We will explore various resampling techniques, model architectures, and performance metrics to gain deeper insights into effective fraud detection under data imbalance.
+
+We will begin with simple baseline models such as logistic regression and decision trees. We will then implement ensemble methods like Random Forest, XGBoost, LightGBM, as well as explore the implementation of Neural Networks for future scalability. To address class imbalance, we will incorporate oversampling techniques (SMOTE, ADASYN) and under-sampling techniques. We will also explore cost-sensitive learning and threshold tuning as extensions.
