@@ -1,7 +1,11 @@
+The following libraries are needed:
+
 Pandas
-TensorFlow
 Numpy
-SciKit-Learn
+Matplotlib
 Seaborn
-Jupyter
-Mathplotlib
+Datetime
+Tensorflow
+Sklearn
+Imblearn
+Xgboost
